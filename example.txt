@@ -1,0 +1,6 @@
+This is an example file.
+
+This is the third line.
+
+Hello friends!
+:)
